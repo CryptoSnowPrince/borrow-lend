@@ -1,0 +1,14 @@
+name = "cryptosnowprince/borrow-lend"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'cryptosnowprince/borrow-lend'"
+
+[repository]
+user = "cryptosnowprince"
+project = "borrow-lend"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.6.0"
+source = "github"
